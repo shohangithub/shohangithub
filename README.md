@@ -1,5 +1,18 @@
 <h1 align="left">Hi 👋, I'm Rafiul</h1>
-<h3 align="left">I’m a full-stack .NET and Angular developer with 6 years of hands-on experience in building scalable web applications and microservices.</h3>
+<h3 align="left">Hi there. 
+I am a seasoned software engineer with over seven years of experience in designing, developing, and deploying robust applications using technologies like .NET, Angular, JavaScript, and Node.js.
+I also leverage advanced database tools such as SQL Server, MongoDB, and MySQL.
+I specialize in creating scalable solutions tailored to complex business requirements and am well-versed in using popular architectures, design patterns, and SDLC practices. Additionally, I am a strong team player who values collaboration and effective communication.
+I’m working at Redlime Solutions on a project utilizing Blazor with .NET 8. I have been on the team for almost three years, contributing to several impactful projects.
+One of my key projects,- ALIGNWELL, an event management platform, showcased my expertise in microservices, CQRS, Factory Pattern, Event Sourcing, and basic Azure DevOps practices to build a robust and efficient system. 
+Additionally, I worked on a document management software named QUARTO, where we handled large-scale data.
+Over the years, I’ve worked on ERP systems, including one for a garments accessories company, where I managed complex business processes such as buyer orders, stock management, inventory management, and various types of reporting.
+I have also developed HR management systems, school management software, and POS applications using .NET, MVC, and Web APIs to deliver high-performance solutions.
+I am passionate about problem-solving, learning quickly, and teamwork as well as adopting emerging technologies to drive impactful results.
+
+Regard,
+Rafiul
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohangithub&label=Profile%20views&color=0e75b6&style=flat" alt="shohangithub" /> </p>
 
